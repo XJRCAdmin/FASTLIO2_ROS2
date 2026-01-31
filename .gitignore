@@ -1,0 +1,11 @@
+r1_lio_ws/build
+r1_lio_ws/install
+r1_lio_ws/log
+relies/fmt/build
+sources/map*
+relies/_install/lib/*.so
+relies/_install/lib/*.a
+relies/_install/bin
+relies/_install/lib/cmake
+relies/_install/lib/pkgconfig
+relies/_install/*

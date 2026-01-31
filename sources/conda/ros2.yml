@@ -1,0 +1,6 @@
+name: ros2
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: /home/sab3r/miniconda3/envs/ros2
