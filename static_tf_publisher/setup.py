@@ -2,7 +2,7 @@ import os
 from glob import glob
 from setuptools import setup
 
-package_name = 'my_static_tf'
+package_name = 'static_tf_publisher'
 
 setup(
     name=package_name,
